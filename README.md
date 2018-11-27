@@ -1,4 +1,4 @@
-## Example Lexical Analyzer Using Flex
+## Lexical Analyzer Using Flex
 
 Flex is a tool for generating scanners. A scanner, sometimes called a tokenizer, is a program that recognizes lexical
 patterns in text. The flex program reads user-specified input files for a description of a scanner to generate. It is
